@@ -2,6 +2,12 @@
 # macOs e Linux - clear
 import os
 
+# def apagar():
+#     if os.plataform == 'win32':
+#         os.system('cls')
+#     else:
+#         os.system('clear')
+
 class Motorista:
     def __init__(self,nome):
         self.nome = nome
